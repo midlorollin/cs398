@@ -1,6 +1,7 @@
 //Zak Killelea
 //CS-398
 
+<<<<<<< HEAD
 import java.io.BufferedInputStream;
 //import java.io.DataInputStream;
 import java.io.File;
@@ -98,4 +99,10 @@ public class loader extends JPanel {
         frame.pack();
         frame.setVisible(true);
     }
+=======
+public class loader {
+  public static void main(String args[]) {
+    
+  }
+>>>>>>> upstream/master
 }
